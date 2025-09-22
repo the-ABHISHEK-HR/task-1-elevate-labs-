@@ -1,0 +1,23 @@
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::de77:485f:d696:64b0%8
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   IPv6 Address. . . . . . . . . . . : 2406:7400:94:2054:626a:8b1f:85ff:1427
+   Temporary IPv6 Address. . . . . . : 2406:7400:94:2054:9cdf:927e:8096:7a3b
+   Link-local IPv6 Address . . . . . : fe80::75d9:11f8:a82e:ca38%19
+   IPv4 Address. . . . . . . . . . . : 192.168.0.107
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::4a22:54ff:fe64:bbf2%19
+                                       192.168.0.1
